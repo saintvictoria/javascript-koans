@@ -1,3 +1,8 @@
+
+I forked this and then worked through the exercises, learning more about javascript and errors.
+
+
+
 # Javascript Koans - koans to learn Javascript (the good bits) #
 
 Based on Edgecase's fantastic 
